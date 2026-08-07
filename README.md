@@ -70,6 +70,3 @@ Then just turn on Pages as in step 3–4 above.
 - **Achievements, certificates & profile picture**: don't edit HTML for these — use `admin.html` or edit `js/achievements-data.js` / `js/profile-data.js` directly (see sections above).
 - **Background starfield**: it's a canvas animation defined in `js/main.js` under `initGalaxy()`. Star count, colors, twinkle speed, and shooting-star frequency are all adjustable there if you want it denser, sparser, or different-colored. It automatically turns off for visitors with "reduce motion" enabled in their OS settings.
 
-## Why single-page instead of Bainomugisha's multi-page structure
-
-Your reference site spreads Home/Research/Publications/CV/etc. across separate pages — that fits an academic with years of publications to index. For a portfolio you're sharing as one link on social media and GitHub, a single scrolling page with anchored navigation (About / Experience / Projects / Skills / Achievements / Contact) gets a recruiter through your whole story in one visit, without them needing to find and click through multiple pages. All of the original's "features" made it in as sections: the pull-quote, the flagship-projects showcase, the notable-projects list with links, and the contact card — just recomposed for a one-scroll format.
