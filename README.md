@@ -69,4 +69,3 @@ Then just turn on Pages as in step 3–4 above.
 - **Adding a project card**: copy one `.pcard` block in the Projects section and edit it — icon, title, description, tags, and link.
 - **Achievements, certificates & profile picture**: don't edit HTML for these — use `admin.html` or edit `js/achievements-data.js` / `js/profile-data.js` directly (see sections above).
 - **Background starfield**: it's a canvas animation defined in `js/main.js` under `initGalaxy()`. Star count, colors, twinkle speed, and shooting-star frequency are all adjustable there if you want it denser, sparser, or different-colored. It automatically turns off for visitors with "reduce motion" enabled in their OS settings.
-
