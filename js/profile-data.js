@@ -22,7 +22,7 @@
  */
 
 const PROFILE = {
-  image: "",
+  image: "assets/Profile.jpg",
   initials: "JS"
 };
 

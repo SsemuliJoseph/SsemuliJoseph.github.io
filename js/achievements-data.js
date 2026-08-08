@@ -58,6 +58,14 @@ const ACHIEVEMENTS = [
     cert: "assets/certificates/huggingface-llm-course.jpg"
   },
   {
+    title: "1 Minute Typing Test",
+    issuer: "typing.com",
+    date: "August 7, 2026",
+    icon: "award",
+    verify: "http://typing.com/apiv1/student/tests/414912272/177121827/certificate?language=en&product_id=adult_learner",
+    cert: "assets/doc.pdf"
+  },
+  {
     title: "BrighterMonday Uganda Soft Skills Certificate",
     issuer: "BrighterMonday Uganda × Mastercard Foundation",
     date: "May 1, 2026",
